@@ -12,6 +12,5 @@ The statitishce are divided into two main categories:
 Then later you can choose the type of chart (bar, line, pie, etc.) and what to see or to compare.
 
 -
-Required Deployment Contexts:
- -> Pasturenzi-hook
+Required Deployment Contexts: Pasturenzi-hook
 -
